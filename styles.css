@@ -259,7 +259,7 @@ section.nearmelocations {
     background-color: #fcfcfc;
 }
 
-.czupDC {
+.accordian-link {
     display: inline-block;
     width: 3px;
     height: 3px;
@@ -269,7 +269,7 @@ section.nearmelocations {
     margin-bottom: 3px;
 }
 
-.fQzRng {
+.accordian-element {
     text-decoration: none;
     color: rgb(130, 130, 130);
     font-size: 18px;
@@ -277,7 +277,7 @@ section.nearmelocations {
     margin-right: 1rem;
 }
 
-.fQzRng:hover {
+.accordian-element:hover {
     color: rgb(54, 54, 54);
 }
 
